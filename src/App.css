@@ -1,0 +1,273 @@
+
+#navbar
+{
+  background-color:palevioletred;
+  padding: 7px;
+
+}
+#heading
+{
+  font-size: 44px;
+  color:"black";
+  left: 32px;
+  top:48px;
+  font-family: 'Lemon', serif;
+}
+
+#logo
+{
+  width:98px;
+  height: 98px;
+  top:12px;
+  right: 290px;
+  border-radius: 9cqmin;
+  position:absolute;
+  
+
+}
+#sign-in
+{
+  top:48px;
+  right: 130px;
+  position:absolute;
+  font-size: 34px;
+  border-radius: 35px;
+  background-color: gold;
+  padding: 10px;
+  color: black;
+
+}
+#login-in{
+  top:48px;
+  right: 10px;
+  position:absolute;
+  font-size: 34px;
+  border-radius: 35px;
+  background-color: gold;
+  padding: 10px;
+  color: black;
+}
+#navbar_maker{
+  background-color: palevioletred;
+  padding: 14px;
+}
+.basket
+{
+  width: 43px;
+  height: 43px;
+  top:23px;
+  right: 70px;
+  position: absolute;
+  border:3px solid black ;
+  border-radius: 98px;
+  cursor: pointer;
+}
+.orders p
+{
+  font-weight: 600;
+  top:53px;
+  right: 55px;
+  position: absolute; 
+  visibility: hidden;
+}
+.orders:hover p{
+  visibility: visible;
+}
+#bottom_navbar
+{
+  background-image: url("https://img.freepik.com/free-photo/delicious-ice-cream-cones_23-2149460312.jpg?w=900&t=st=1704717523~exp=1704718123~hmac=72c4f596348ed28064e123629fdb085a2ea911965d07b96529905d61fe4b6dd8");
+  background-repeat: no-repeat;
+  background-size:100vw 100vh;
+  font-family: 'Lemon', serif;
+font-size: 23px;
+}
+#bowl_img{
+  border: 4px solid purple;
+  width: 587px;
+  height: 93px;
+  display: flex;  
+  flex-direction: column;
+  overflow-y:scroll;
+  margin: auto;
+}
+#bowl_text{
+  font-family:'Lemon', serif; ;
+  font-size: 23px;
+  padding-left: 18px;
+  display: flex;
+  flex-direction: column;
+}
+
+#rainier,#black,#royal,#marsh,#gummy_candies,#crushed_candies,#hard_candies,#popping_candies,#cocunut_candies,#caramel_sauce,#saltcaramel_sauce,#crushcaramel_sauce,#chocosprink_sprinkler,#rainballsprink_sprinkler,#rainsprink_sprinkler,#strawberry_sauce,#chocolate_sauce,#blueberry_sauce,#cashew_nuts,#almonds_nuts,#pista_nuts,#walnut_nuts,#chocochip_cookie,#shortbread_cookie,#graham_cookie,#Berry_fruits,#Banana_fruits,#Mango_fruits,#Kiwi_cookie,#chocolate_icecream,#strawberry_icecream,#vanilla_icecream,#mintchoco_icecream,#butter_icecream,#blackberry_icecream
+
+{
+  height: 203px;
+  width: 203px; 
+  cursor: pointer;
+  border-top-right-radius: 34px;
+  border-bottom-right-radius: 34px;
+  font-family:'Lemon', serif; ;
+
+
+}
+#marsh_T,#royal_T,#rainier_T,#black_T,#gummy_T,#crushed_T,#hard_T,#popping_T,#cocunut_T,#caramel_T,#saltcaramel_T,#crushcaramel_T,#chocosprink_T,#rainsprink_T,#rainballsprink_T,#strawberry_T,#chocolate_T,#blueberry_T,#cashew_T,#almonds_T,#pista_T,#walnut_T,#chocochip_T,#shortbread_T,#graham_T,#Berry_T,#Banana_T,#Mango_T,#Kiwi_T,#chocolate_T,#strawberry_T,#vanilla_T,#mintchoco_T,#butter_T,#blackberry_T
+
+{
+  font-size: 15px;
+  background-color: black;
+  color:white;
+  padding: 10px;
+  text-align: center;
+  position: relative;
+  cursor: pointer;
+  font-family:'Lemon', serif; ;
+
+}
+#clear_bowl
+{
+  background-color:aqua;
+  color: black;
+  font-weight: 700;
+  font-size: 24px;
+}
+
+#choices
+{
+  font-size: 24px;
+  font-family:'Lemon', serif; ;
+  width: 200px;
+  background-color: lightcoral;
+  border-radius: 12px;
+
+}
+
+#order_data
+{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#order_items
+{
+  font-size: 20px;
+
+}
+
+#image{
+  width: 45px;
+  height: 45px;
+  margin: auto;
+}
+.toppings li{
+  display: block;
+  padding: 12px;
+  font-family:'Lemon', serif; ;
+font-size: 2px;
+}
+.button{
+  font-size: 28px;
+  border-top-right-radius: 34px;
+  border-bottom-right-radius: 34px;
+  background-color: gold;
+  padding: 10px;
+  color: black;
+  cursor: pointer;
+
+}
+#making{
+  background-color:khaki;
+  background-repeat: no-repeat;
+  background-size: 100vw 100vh;
+}
+#cust-text
+{
+  text-align: center;
+}
+.white-hand {
+  color: #8B4513;
+}
+#custom
+{
+padding: auto;  font-size: 24px;
+  border-radius: 20px;
+  background-color: gold;
+  padding: 10px;
+  color: black;
+
+}
+#clearing_bowl
+{
+  background-color: red;
+  color: black;
+  display: flex;
+  cursor: pointer;
+
+  font-size: 18px;
+  border: 2px solid black;
+  font-weight: 800;
+  border-radius: 23px;
+  padding: 8px;
+
+}
+#bookings
+{
+  background-color:chartreuse;
+  padding: 2px;
+  color: black;
+  display: flex;
+  font-size: 18px;
+  border: 2px solid black;
+  font-weight: 800;
+  border-radius: 23px;
+  padding: 8px;
+  cursor: pointer;
+
+
+}
+#clear_place
+{
+  display: flex;
+  flex-direction: row;
+  margin:auto;
+  gap:23px
+
+}
+label,#sumit,#ret{
+  font-size: 23px;
+  
+}
+form{
+  margin: auto;
+  margin-top: 34px;
+  margin-bottom: 34px;
+}
+
+#container{
+  display:flex;
+  background-image: url("https://img.freepik.com/free-photo/delicious-ice-cream-cones_23-2149460312.jpg?size=626&ext=jpg&ga=GA1.1.101161747.1692242045&semt=ais");
+  background-repeat:no-repeat ;
+  background-size:100vw 100vh;
+}
+#name,#email,#add,#password,#mobile,#gen{
+  font-size: 20px;
+}
+#login-heading
+{
+  font-size: 44px;
+  text-align: center;
+  left: 295px;
+  top:65px;
+
+}
+#gen{
+  width:94px;
+  height: 34px;
+}
+#sumit,#reset
+{
+  font-size: 25px;
+  border-radius: 13px;
+  margin-left: auto;
+  margin-right: auto;
+  gap:14px
+}
